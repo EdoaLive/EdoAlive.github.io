@@ -6,6 +6,7 @@ theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
+  - jekyll-seo-tag
 
 plugins:
   - jekyll-seo-tag
