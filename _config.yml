@@ -3,15 +3,11 @@ description:
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-minimal
-
+google_site_verification: VCGJcmfJ8Ujr3WvZ9uRfVtcdYmhhXIBz83CNoNoXuUw
+webmaster_verifications:
+  google: VCGJcmfJ8Ujr3WvZ9uRfVtcdYmhhXIBz83CNoNoXuUw
 gems:
   - jekyll-mentions
   - jekyll-seo-tag
-
 plugins:
   - jekyll-seo-tag
-  
-google_site_verification: VCGJcmfJ8Ujr3WvZ9uRfVtcdYmhhXIBz83CNoNoXuUw
-
-webmaster_verifications:
-  google: VCGJcmfJ8Ujr3WvZ9uRfVtcdYmhhXIBz83CNoNoXuUw
