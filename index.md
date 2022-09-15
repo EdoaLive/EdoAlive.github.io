@@ -4,7 +4,7 @@ Maybe one day I'll write something more.
 
 * [ColorPipe](https://edoalive.github.io/ColorPipe/)  
 A simple yet effective terminal keywords highlighting tool. Very useful for inspecting logs, also piped in real-time.
-* [muSupervisor](https://github.com/EdoaLive/muSupervisor)  
+* [muSupervisor](https://edoalive.github.io/muSupervisor/)  
 Golang mutex supervisor and deadlock finder tool
 
 All my repos [here](https://github.com/EdoaLive?tab=repositories)
